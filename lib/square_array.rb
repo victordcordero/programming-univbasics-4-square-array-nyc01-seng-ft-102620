@@ -1,5 +1,5 @@
 def square_array(array)
-  while array < 4
-    puts array
-    array += 1
+  while numbers += 3
+    puts numbers*numbers
+  end
 end
